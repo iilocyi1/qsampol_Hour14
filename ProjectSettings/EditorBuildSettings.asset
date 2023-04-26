@@ -4,5 +4,11 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/qsampol_Hour14_Menu.unity
+    guid: 0aa6a1ac55472864586cc39920d4fc1e
+  - enabled: 1
+    path: Assets/Scenes/qsampol_Hour14_Game.unity
+    guid: b891aa7c9e4642d4cb9633d3b8562974
   m_configObjects: {}
